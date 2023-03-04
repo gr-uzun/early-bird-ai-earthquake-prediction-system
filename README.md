@@ -1,1 +1,1 @@
-# early-bird-ai-earthquake-prediction-system
+# Early Bird AI Earthquake Prediction System
